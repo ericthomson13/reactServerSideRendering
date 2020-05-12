@@ -28733,7 +28733,7 @@ var Home = function Home() {
   return _react2.default.createElement(
     'div',
     null,
-    'I\'m the Home Component'
+    'I\'m the Home Component Again and Again'
   );
 };
 

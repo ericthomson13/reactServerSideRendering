@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home = () => (
   <div>
-    I'm the Home Component
+    I'm the Home Component Again and Again
   </div>
 );
 
