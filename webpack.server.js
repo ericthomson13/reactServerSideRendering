@@ -1,13 +1,13 @@
 const path = require('path');
 
-modules.exports = {
+module.exports = {
   // Inform webpack this is nodeJS bundle not for browser
   target: 'node',
   // Root file of server application
   entry: './server/src/index.js',
   // Tell webpack where to put output file
   output: {
-    fileName: 'bundle.js',
+    filename: 'bundle.js',
     path: path.resolve(__dirname, 'build')
   },
   // Tell webpack to run Babel on every file it runs thorough

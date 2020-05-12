@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "An exploration of how to use server side rendering for React applications",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev:build:server": "webpack --config webpack.server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ericthomson13/reactServerSideRendering.git"
