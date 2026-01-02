@@ -23,7 +23,7 @@
     "babel-preset-es2017": "6.24.1",
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "concurrently": "3.5.0",
     "express": "^4.21.2",
     "express-http-proxy": "1.0.6",
